@@ -1,14 +1,19 @@
 package com.ivanov.first.service.impl;
 
 import com.ivanov.first.customarray.CustomArray;
+import com.ivanov.first.customarray.factory.CustomArrayFactory;
+import com.ivanov.first.customarray.factory.impl.CustomArrayFactoryImpl;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class CustomArrayServiceImplTest {
-  CustomArray ARRAY = new CustomArray(1, 5, new int[]{1, 2, 3, 4, 5});
-  CustomArray ARRAY_FOR_REPLACE = new CustomArray(2, 5, new int[]{1, -2, 3, -4, 5});
+
+  CustomArrayFactoryImpl factory = new CustomArrayFactoryImpl();
+  CustomArray ARRAY = factory.create(1, 5, new int[]{1, 2, 3, 4, 5});
+  CustomArray ARRAY_FOR_REPLACE = factory.create(2, 5, new int[]{1, -2, 3, -4, 5});
+
   int MAX_ELEMENT = 5;
   int MIN_ELEMENT = 1;
   double AVERAGE_VALUE = 3.0;
