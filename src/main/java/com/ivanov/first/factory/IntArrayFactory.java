@@ -1,5 +1,5 @@
 package com.ivanov.first.factory;
-import com.ivanov.first.customarray.IntArray;
+import com.ivanov.first.intarray.IntArray;
 import com.ivanov.first.exception.IntArrayException;
 
 public interface IntArrayFactory {
