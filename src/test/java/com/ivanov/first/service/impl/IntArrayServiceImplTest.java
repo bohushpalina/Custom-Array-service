@@ -1,29 +1,29 @@
 package com.ivanov.first.service.impl;
 
-import com.ivanov.first.customarray.CustomArray;
-import com.ivanov.first.exception.CustomArrayException;
-import com.ivanov.first.factory.impl.CustomArrayFactoryImpl;
+import com.ivanov.first.customarray.IntArray;
+import com.ivanov.first.exception.IntArrayException;
+import com.ivanov.first.factory.impl.IntArrayFactoryImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class CustomArrayServiceImplTest {
+class IntArrayServiceImplTest {
 
-  CustomArrayFactoryImpl factory = new CustomArrayFactoryImpl();
-  CustomArray array;
-  CustomArray arrayForReplace;
+  IntArrayFactoryImpl factory = new IntArrayFactoryImpl();
+  IntArray array;
+  IntArray arrayForReplace;
 
   int MAX_ELEMENT = 5;
   int MIN_ELEMENT = 1;
   double AVERAGE_VALUE = 3.0;
   int POSITIVE_COUNT = 5;
   int NEGATIVE_COUNT = 0;
-  CustomArrayServiceImpl service = new CustomArrayServiceImpl();
+  IntArrayServiceImpl service = new IntArrayServiceImpl();
 
   @BeforeEach
-  void setUp() throws CustomArrayException {
-    factory = new CustomArrayFactoryImpl();
-    service = new CustomArrayServiceImpl();
+  void setUp() throws IntArrayException {
+    factory = new IntArrayFactoryImpl();
+    service = new IntArrayServiceImpl();
 
     array = factory.create(1, 5, new int[]{1, 2, 3, 4, 5});
     arrayForReplace = factory.create(2, 5, new int[]{1, -2, 3, -4, 5});

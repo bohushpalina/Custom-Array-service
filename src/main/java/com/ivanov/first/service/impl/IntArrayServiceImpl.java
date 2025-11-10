@@ -1,14 +1,14 @@
 package com.ivanov.first.service.impl;
-import com.ivanov.first.customarray.CustomArray;
-import com.ivanov.first.service.CustomArrayService;
+import com.ivanov.first.customarray.IntArray;
+import com.ivanov.first.service.IntArrayService;
 import java.util.function.IntPredicate;
 
-public class CustomArrayServiceImpl implements CustomArrayService {
+public class IntArrayServiceImpl implements IntArrayService {
 
   @Override
-  public int findMaxElement(CustomArray customArray) {
-    int size = customArray.getSize();
-    int[] data = customArray.getData();
+  public int findMaxElement(IntArray intArray) {
+    int size = intArray.getSize();
+    int[] data = intArray.getData();
 
     int max = data[0];
     for (int i = 0; i < size; ++i)
@@ -22,9 +22,9 @@ public class CustomArrayServiceImpl implements CustomArrayService {
   }
 
   @Override
-  public int findMinElement(CustomArray customArray) {
-    int size = customArray.getSize();
-    int[] data = customArray.getData();
+  public int findMinElement(IntArray intArray) {
+    int size = intArray.getSize();
+    int[] data = intArray.getData();
 
     int min = data[0];
     for (int i = 0; i < size; ++i)
@@ -38,9 +38,9 @@ public class CustomArrayServiceImpl implements CustomArrayService {
   }
 
   @Override
-  public double findAverageValue(CustomArray customArray) {
-    int size = customArray.getSize();
-    int[] data = customArray.getData();
+  public double findAverageValue(IntArray intArray) {
+    int size = intArray.getSize();
+    int[] data = intArray.getData();
 
     double sum = 0;
     for (int i = 0; i < size; ++i)
@@ -51,9 +51,9 @@ public class CustomArrayServiceImpl implements CustomArrayService {
   }
 
   @Override
-  public int findPositiveElementsCount(CustomArray customArray) {
-    int size = customArray.getSize();
-    int[] data = customArray.getData();
+  public int findPositiveElementsCount(IntArray intArray) {
+    int size = intArray.getSize();
+    int[] data = intArray.getData();
 
     int count = 0;
     for (int i = 0; i < size; ++i)
@@ -67,9 +67,9 @@ public class CustomArrayServiceImpl implements CustomArrayService {
   }
 
   @Override
-  public int findNegativeElementsCount(CustomArray customArray) {
-    int size = customArray.getSize();
-    int[] data = customArray.getData();
+  public int findNegativeElementsCount(IntArray intArray) {
+    int size = intArray.getSize();
+    int[] data = intArray.getData();
 
     int count = 0;
     for (int i = 0; i < size; ++i)
@@ -83,7 +83,7 @@ public class CustomArrayServiceImpl implements CustomArrayService {
   }
 
   @Override
-  public void replaceIf(CustomArray array, IntPredicate condition, int newValue) {
+  public void replaceIf(IntArray array, IntPredicate condition, int newValue) {
     int[] data = array.getData();
     int size = array.getSize();
 
@@ -93,5 +93,4 @@ public class CustomArrayServiceImpl implements CustomArrayService {
       }
     }
   }
-
 }

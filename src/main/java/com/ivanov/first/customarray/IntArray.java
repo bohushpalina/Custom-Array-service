@@ -1,38 +1,38 @@
 package com.ivanov.first.customarray;
 
-import com.ivanov.first.exception.CustomArrayException;
+import com.ivanov.first.exception.IntArrayException;
 
 import java.util.Arrays;
 
-public class CustomArray {
-  private long customArrayId;
+public class IntArray {
+  private long intArrayId;
   private int size;
   private int[] data;
 
-  public CustomArray() {
+  public IntArray() {
     super();
   }
 
-  public CustomArray(long customArrayId, int size, int[] data) throws CustomArrayException {
+  public IntArray(long intArrayId, int size, int[] data) throws IntArrayException {
     if (data == null) {
-      throw new CustomArrayException("Input array cannot be null.");
+      throw new IntArrayException("Input array cannot be null.");
     }
     if (size <= 0) {
-      throw new CustomArrayException("Size must be greater than zero.");
+      throw new IntArrayException("Size must be greater than zero.");
     }
     if (size > data.length) {
-      throw new CustomArrayException("Size cannot exceed input array length.");
+      throw new IntArrayException("Size cannot exceed input array length.");
     }
     this.size = size;
     this.data = Arrays.copyOf(data, this.size);
   }
 
-  public long getCustomArrayId() {
-    return customArrayId;
+  public long getIntArrayId() {
+    return intArrayId;
   }
 
-  public void setCustomArrayId(long customArrayId) {
-    this.customArrayId = customArrayId;
+  public void setIntArrayId(long intArrayId) {
+    this.intArrayId = intArrayId;
   }
 
   public int getSize() {
@@ -55,13 +55,13 @@ public class CustomArray {
   public boolean equals(Object o) {
     if (o == null || getClass() != o.getClass()) return false;
 
-    CustomArray that = (CustomArray) o;
-    return getCustomArrayId() == that.getCustomArrayId() && getSize() == that.getSize() && Arrays.equals(getData(), that.getData());
+    IntArray that = (IntArray) o;
+    return getIntArrayId() == that.getIntArrayId() && getSize() == that.getSize() && Arrays.equals(getData(), that.getData());
   }
 
   @Override
   public int hashCode() {
-    int result = Long.hashCode(getCustomArrayId());
+    int result = Long.hashCode(getIntArrayId());
     result = 31 * result + getSize();
     result = 31 * result + Arrays.hashCode(getData());
     return result;
@@ -69,8 +69,8 @@ public class CustomArray {
 
   @Override
   public String toString() {
-    return "CustomArray{" +
-            "customArrayId=" + customArrayId +
+    return "IntArray{" +
+            "customArrayId=" + intArrayId +
             ", size=" + size +
             ", data=" + Arrays.toString(data) +
             '}';
