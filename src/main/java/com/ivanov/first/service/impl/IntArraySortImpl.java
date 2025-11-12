@@ -4,14 +4,18 @@ import com.ivanov.first.entity.IntArray;
 import com.ivanov.first.exception.IntArrayException;
 import com.ivanov.first.factory.impl.IntArrayFactoryImpl;
 import com.ivanov.first.service.IntArraySort;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class IntArraySortImpl implements IntArraySort {
 
+  private static final Logger log = LogManager.getLogger();
   IntArrayFactoryImpl factory = new IntArrayFactoryImpl();
 
   @Override
   public IntArray bubbleSort(IntArray intArray) throws IntArrayException {
-    int[] data = intArray.getData().clone();
+    log.info("Bubble sort started for IntArray with ID: {}", intArray.getIntArrayId());
+    int[] data = intArray.getData();
     int size = intArray.getSize();
 
     for (int i = 0; i < size - 1; i++) {
@@ -24,12 +28,14 @@ public class IntArraySortImpl implements IntArraySort {
       }
     }
 
+    log.info("Bubble sort finished for IntArray with ID: {}", intArray.getIntArrayId());
     return factory.create(intArray.getIntArrayId(), size, data);
   }
 
   @Override
   public IntArray shakeSort(IntArray intArray) throws IntArrayException {
-    int[] data = intArray.getData().clone();
+    log.info("Shake sort started for IntArray with ID: {}", intArray.getIntArrayId());
+    int[] data = intArray.getData();
     int size = intArray.getSize();
     boolean swapped;
     int left = 0;
@@ -58,12 +64,15 @@ public class IntArraySortImpl implements IntArraySort {
       left++;
     } while (swapped);
 
+    log.info("Shake sort finished for IntArray with ID: {}", intArray.getIntArrayId());
     return factory.create(intArray.getIntArrayId(), size, data);
   }
 
   @Override
   public IntArray mergeSort(IntArray intArray) throws IntArrayException {
-    int[] data = intArray.getData().clone();
+    log.info("Merge sort started for IntArray with ID: {}", intArray.getIntArrayId());
+    int[] data = intArray.getData();
+    log.info("Merge sort finished for IntArray with ID: {}", intArray.getIntArrayId());
     return factory.create(intArray.getIntArrayId(), data.length, data);
   }
 

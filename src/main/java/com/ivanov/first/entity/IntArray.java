@@ -44,11 +44,11 @@ public class IntArray {
   }
 
   public int[] getData() {
-    return data;
+    return Arrays.copyOf(data, data.length);
   }
 
   public void setData(int[] data) {
-    this.data = data;
+    this.data = Arrays.copyOf(data, data.length);
   }
 
   @Override
