@@ -4,3 +4,59 @@
 [2025-11-12 09:57:49] [INFO ] IntArrayServiceImpl - Replacing elements by condition with new value = 0
 [2025-11-12 09:57:49] [INFO ] IntArrayServiceImpl - Finding min element in array with size 5
 [2025-11-12 09:57:49] [INFO ] IntArrayServiceImpl - Calculating average value for array
+[2025-11-12 10:27:25] [INFO ] IntArrayServiceImpl - Counting positive elements
+[2025-11-12 10:27:25] [INFO ] IntArrayServiceImpl - Finding max element in array with size 5
+[2025-11-12 10:27:25] [INFO ] IntArrayServiceImpl - Counting negative elements
+[2025-11-12 10:27:25] [INFO ] IntArrayServiceImpl - Replacing elements by condition with new value = 0
+[2025-11-12 10:27:25] [INFO ] IntArrayServiceImpl - Finding min element in array with size 5
+[2025-11-12 10:27:25] [INFO ] IntArrayServiceImpl - Calculating average value for array
+[2025-11-12 10:29:01] [INFO ] IntArrayServiceImpl - Counting positive elements
+[2025-11-12 10:29:01] [INFO ] IntArrayServiceImpl - Finding max element in array with size 5
+[2025-11-12 10:29:01] [INFO ] IntArrayServiceImpl - Counting negative elements
+[2025-11-12 10:29:01] [INFO ] IntArrayServiceImpl - Replacing elements by condition with new value = 0
+[2025-11-12 10:29:01] [INFO ] IntArrayServiceImpl - Finding min element in array with size 5
+[2025-11-12 10:29:01] [INFO ] IntArrayServiceImpl - Calculating average value for array
+[2025-11-12 10:30:04] [INFO ] IntArrayServiceImpl - Counting positive elements
+[2025-11-12 10:30:04] [INFO ] IntArrayServiceImpl - Finding max element in array with size 5
+[2025-11-12 10:30:04] [INFO ] IntArrayServiceImpl - Counting negative elements
+[2025-11-12 10:30:04] [INFO ] IntArrayServiceImpl - Replacing elements by condition with new value = 0
+[2025-11-12 10:30:04] [INFO ] IntArrayServiceImpl - Finding min element in array with size 5
+[2025-11-12 10:30:04] [INFO ] IntArrayServiceImpl - Calculating average value for array
+[2025-11-12 10:30:12] [INFO ] IntArraySortServiceImpl - Shake sort started for IntArray with ID: 0
+[2025-11-12 10:30:12] [INFO ] IntArraySortServiceImpl - Shake sort finished for IntArray with ID: 0
+[2025-11-12 10:30:12] [INFO ] IntArraySortServiceImpl - Bubble sort started for IntArray with ID: 0
+[2025-11-12 10:30:12] [INFO ] IntArraySortServiceImpl - Bubble sort finished for IntArray with ID: 0
+[2025-11-12 10:30:12] [INFO ] IntArraySortServiceImpl - Merge sort started for IntArray with ID: 0
+[2025-11-12 10:30:12] [INFO ] IntArraySortServiceImpl - Merge sort finished for IntArray with ID: 0
+[2025-11-12 10:32:21] [INFO ] IntArraySortServiceImpl - Shake sort started for IntArray with ID: 0
+[2025-11-12 10:32:21] [INFO ] IntArraySortServiceImpl - Shake sort finished for IntArray with ID: 0
+[2025-11-12 10:32:21] [INFO ] IntArraySortServiceImpl - Bubble sort started for IntArray with ID: 0
+[2025-11-12 10:32:21] [INFO ] IntArraySortServiceImpl - Bubble sort finished for IntArray with ID: 0
+[2025-11-12 10:32:21] [INFO ] IntArraySortServiceImpl - Merge sort started for IntArray with ID: 0
+[2025-11-12 10:32:21] [INFO ] IntArraySortServiceImpl - Merge sort finished for IntArray with ID: 0
+[2025-11-12 10:32:30] [INFO ] IntArraySortServiceImpl - Shake sort started for IntArray with ID: 0
+[2025-11-12 10:32:30] [INFO ] IntArraySortServiceImpl - Shake sort finished for IntArray with ID: 0
+[2025-11-12 10:32:30] [INFO ] IntArraySortServiceImpl - Bubble sort started for IntArray with ID: 0
+[2025-11-12 10:32:30] [INFO ] IntArraySortServiceImpl - Bubble sort finished for IntArray with ID: 0
+[2025-11-12 10:32:30] [INFO ] IntArraySortServiceImpl - Merge sort started for IntArray with ID: 0
+[2025-11-12 10:32:30] [INFO ] IntArraySortServiceImpl - Merge sort finished for IntArray with ID: 0
+[2025-11-12 10:32:36] [INFO ] IntArrayServiceImpl - Counting positive elements
+[2025-11-12 10:32:36] [INFO ] IntArrayServiceImpl - Finding max element in array with size 5
+[2025-11-12 10:32:36] [INFO ] IntArrayServiceImpl - Counting negative elements
+[2025-11-12 10:32:36] [INFO ] IntArrayServiceImpl - Replacing elements by condition with new value = 0
+[2025-11-12 10:32:36] [INFO ] IntArrayServiceImpl - Finding min element in array with size 5
+[2025-11-12 10:32:36] [INFO ] IntArrayServiceImpl - Calculating average value for array
+[2025-11-12 10:32:50] [INFO ] IntArrayServiceImpl - Counting positive elements
+[2025-11-12 10:32:51] [INFO ] IntArrayServiceImpl - Finding max element in array with size 5
+[2025-11-12 10:32:51] [INFO ] IntArrayServiceImpl - Counting negative elements
+[2025-11-12 10:32:51] [INFO ] IntArrayServiceImpl - Replacing elements by condition with new value = 0
+[2025-11-12 10:32:51] [INFO ] IntArrayServiceImpl - Finding min element in array with size 5
+[2025-11-12 10:32:51] [INFO ] IntArrayServiceImpl - Calculating average value for array
+[2025-11-12 10:33:13] [INFO ] IntArrayServiceImpl - Replacing elements by condition with new value = 0
+[2025-11-12 10:36:06] [INFO ] IntArrayServiceImpl - Replacing elements by condition with new value = 0
+[2025-11-12 10:36:14] [INFO ] IntArraySortServiceImpl - Shake sort started for IntArray with ID: 0
+[2025-11-12 10:36:14] [INFO ] IntArraySortServiceImpl - Shake sort finished for IntArray with ID: 0
+[2025-11-12 10:36:14] [INFO ] IntArraySortServiceImpl - Bubble sort started for IntArray with ID: 0
+[2025-11-12 10:36:14] [INFO ] IntArraySortServiceImpl - Bubble sort finished for IntArray with ID: 0
+[2025-11-12 10:36:14] [INFO ] IntArraySortServiceImpl - Merge sort started for IntArray with ID: 0
+[2025-11-12 10:36:14] [INFO ] IntArraySortServiceImpl - Merge sort finished for IntArray with ID: 0

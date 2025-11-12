@@ -3,11 +3,11 @@ package com.ivanov.first.service.impl;
 import com.ivanov.first.entity.IntArray;
 import com.ivanov.first.exception.IntArrayException;
 import com.ivanov.first.factory.impl.IntArrayFactoryImpl;
-import com.ivanov.first.service.IntArraySort;
+import com.ivanov.first.service.IntArraySortService;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class IntArraySortImpl implements IntArraySort {
+public class IntArraySortServiceImpl implements IntArraySortService {
 
   private static final Logger log = LogManager.getLogger();
   IntArrayFactoryImpl factory = new IntArrayFactoryImpl();
@@ -72,6 +72,7 @@ public class IntArraySortImpl implements IntArraySort {
   public IntArray mergeSort(IntArray intArray) throws IntArrayException {
     log.info("Merge sort started for IntArray with ID: {}", intArray.getIntArrayId());
     int[] data = intArray.getData();
+    mergeSortRecursive(data, 0, data.length - 1);
     log.info("Merge sort finished for IntArray with ID: {}", intArray.getIntArrayId());
     return factory.create(intArray.getIntArrayId(), data.length, data);
   }

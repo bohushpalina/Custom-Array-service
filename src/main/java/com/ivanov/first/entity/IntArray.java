@@ -44,7 +44,7 @@ public class IntArray {
   }
 
   public int[] getData() {
-    return Arrays.copyOf(data, data.length);
+    return data;
   }
 
   public void setData(int[] data) {
