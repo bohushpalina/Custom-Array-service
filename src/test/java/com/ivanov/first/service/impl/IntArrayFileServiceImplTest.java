@@ -1,5 +1,4 @@
 package com.ivanov.first.service.impl;
-
 import com.ivanov.first.entity.IntArray;
 import com.ivanov.first.exception.IntArrayException;
 import org.junit.jupiter.api.Test;

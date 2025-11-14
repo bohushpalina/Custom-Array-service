@@ -96,3 +96,8 @@
 [2025-11-12 19:10:59] [INFO ] IntArrayServiceImpl - Replacing elements by condition with new value = 0
 [2025-11-12 19:10:59] [INFO ] IntArrayServiceImpl - Finding min element in array with size 5
 [2025-11-12 19:10:59] [INFO ] IntArrayServiceImpl - Calculating average value for array
+[2025-11-12 19:23:33] [INFO ] IntArrayFileServiceImpl - Started reading from file
+[2025-11-12 19:24:11] [INFO ] IntArrayFileServiceImpl - Started reading from file
+[2025-11-12 19:24:11] [INFO ] IntArrayFileServiceImpl - Invalid line in file: '5 6 seven 8'Skipped
+[2025-11-12 19:24:11] [INFO ] IntArrayFileServiceImpl - Invalid line in file: '12 thirteen 14'Skipped
+[2025-11-12 19:24:11] [INFO ] IntArrayFileServiceImpl - File was read successful!
