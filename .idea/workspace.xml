@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2dd4d05-714d-4e50-abcd-1f4f1277e1fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ivanov/first/repository/IntArrayRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ivanov/first/repository/impl/IntArrayRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ivanov/first/service/IntArrayRepositorySortService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ivanov/first/service/impl/IntArrayRepositorySortServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ivanov/first/service/impl/IntArrayFileServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ivanov/first/service/impl/IntArrayFileServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ivanov/first/repository/IntArrayRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ivanov/first/repository/IntArrayRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ivanov/first/repository/impl/IntArrayRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ivanov/first/repository/impl/IntArrayRepositoryImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <recent name="com.ivanov.first.service.impl" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IntArrayFileServiceImplTest">
+  <component name="RunManager" selected="JUnit.IntArrayServiceImplTest">
     <configuration name="IntArrayFileServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="first" />
       <extension name="coverage">
@@ -163,8 +164,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IntArrayFileServiceImplTest" />
         <item itemvalue="JUnit.IntArrayServiceImplTest" />
+        <item itemvalue="JUnit.IntArrayFileServiceImplTest" />
         <item itemvalue="JUnit.IntArrayFileServiceImplTest.readArraysFromFile" />
         <item itemvalue="JUnit.IntArraySortServiceImplTest" />
         <item itemvalue="JUnit.IntArrayServiceImplTest.replaceIf" />

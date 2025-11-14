@@ -1,10 +1,7 @@
 package com.ivanov.first.repository;
-
 import com.ivanov.first.entity.IntArray;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Optional;
+
+import java.util.*;
 
 public interface IntArrayRepository {
   void save(IntArray array);
