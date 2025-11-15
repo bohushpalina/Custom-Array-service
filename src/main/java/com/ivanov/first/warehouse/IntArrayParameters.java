@@ -1,4 +1,4 @@
-package warehouse;
+package com.ivanov.first.warehouse;
 
 public class IntArrayParameters {
   private int min;

@@ -3,7 +3,7 @@ package com.ivanov.first.observer.impl;
 import com.ivanov.first.entity.IntArray;
 import com.ivanov.first.observer.IntArrayEvent;
 import com.ivanov.first.observer.IntArrayObserver;
-import warehouse.IntArrayParameters;
+import com.ivanov.first.warehouse.IntArrayParameters;
 
 public class IntArrayObserverImpl implements IntArrayObserver {
 
