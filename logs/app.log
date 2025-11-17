@@ -107,3 +107,281 @@
 [2025-11-14 15:32:23] [INFO ] IntArrayServiceImpl - Replacing elements by condition with new value = 0
 [2025-11-14 15:32:23] [INFO ] IntArrayServiceImpl - Finding min element in array with size 5
 [2025-11-14 15:32:23] [INFO ] IntArrayServiceImpl - Calculating average value for array
+[2025-11-17 22:26:20] [INFO ] IntArrayRepository - Repository created
+[2025-11-17 22:26:20] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:20] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:27] [INFO ] IntArrayRepository - Repository created
+[2025-11-17 22:26:27] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:26:27] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:27] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:27] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:27] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:26:28] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Repository created
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=0, size=3, data=[1, 2, 3]}
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observer detached. Total observers: 0
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Successfully removed object: IntArray{customArrayId=0, size=3, data=[1, 2, 3]}
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=0, size=3, data=[1, 2, 3]}
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=0, size=3, data=[1, 2, 3]}
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=0, size=3, data=[5, 1, 9]}
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=0, size=4, data=[0, 0, 10, 2]}
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=0, size=3, data=[-5, -3, -1]}
+[2025-11-17 22:28:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:28:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:28:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 4
+[2025-11-17 22:28:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:28:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:28:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 4
+[2025-11-17 22:28:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:28:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:28:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:28:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Sort operation completed successfully.
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Query finished
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=0, size=3, data=[1, 2, 3]}
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=0, size=3, data=[5, 1, 9]}
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=0, size=4, data=[0, 0, 10, 2]}
+[2025-11-17 22:28:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=0, size=3, data=[-5, -3, -1]}
+[2025-11-17 22:28:52] [INFO ] IntArrayRepository - Query finished
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Repository created
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observer detached. Total observers: 0
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Successfully removed object: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=2, size=3, data=[5, 1, 9]}
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=3, size=4, data=[0, 0, 10, 2]}
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=4, size=3, data=[-5, -3, -1]}
+[2025-11-17 22:36:12] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:36:12] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:36:12] [INFO ] IntArrayServiceImpl - Finding max element in array with size 4
+[2025-11-17 22:36:12] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:36:12] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:36:12] [INFO ] IntArrayServiceImpl - Finding max element in array with size 4
+[2025-11-17 22:36:12] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:36:12] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:36:12] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:36:12] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Sort operation completed successfully.
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Query finished
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=2, size=3, data=[5, 1, 9]}
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=3, size=4, data=[0, 0, 10, 2]}
+[2025-11-17 22:36:12] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=4, size=3, data=[-5, -3, -1]}
+[2025-11-17 22:36:12] [INFO ] IntArrayRepository - Query finished
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Repository created
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observer detached. Total observers: 0
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Successfully removed object: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=2, size=3, data=[5, 1, 9]}
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=3, size=4, data=[0, 0, 10, 2]}
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=4, size=3, data=[-5, -3, -1]}
+[2025-11-17 22:41:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:41:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:41:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 4
+[2025-11-17 22:41:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:41:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:41:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 4
+[2025-11-17 22:41:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:41:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:41:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:41:52] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Sort operation completed successfully.
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Query finished
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observable created for IntArray id=0
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=2, size=3, data=[5, 1, 9]}
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=3, size=4, data=[0, 0, 10, 2]}
+[2025-11-17 22:41:52] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=4, size=3, data=[-5, -3, -1]}
+[2025-11-17 22:41:52] [INFO ] IntArrayRepository - Query finished
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Repository created
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:45:33] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:45:33] [INFO ] IntArrayObservableImpl - Observer detached. Total observers: 0
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Successfully removed object: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:45:33] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:45:33] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:45:33] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=2, size=3, data=[5, 1, 9]}
+[2025-11-17 22:45:33] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=3, size=4, data=[0, 0, 10, 2]}
+[2025-11-17 22:45:33] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=4, size=3, data=[-5, -3, -1]}
+[2025-11-17 22:45:33] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:45:33] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:45:33] [INFO ] IntArrayServiceImpl - Finding max element in array with size 4
+[2025-11-17 22:45:33] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:45:33] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:45:33] [INFO ] IntArrayServiceImpl - Finding max element in array with size 4
+[2025-11-17 22:45:33] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:45:33] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:45:33] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:45:33] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Sort operation completed successfully.
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Query finished
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-17 22:45:33] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=1, size=3, data=[1, 2, 3]}
+[2025-11-17 22:45:33] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=2, size=3, data=[5, 1, 9]}
+[2025-11-17 22:45:33] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=3, size=4, data=[0, 0, 10, 2]}
+[2025-11-17 22:45:33] [INFO ] IntArrayObservableImpl - Observer attached. Total observers: 1
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Successfully added array: IntArray{customArrayId=4, size=3, data=[-5, -3, -1]}
+[2025-11-17 22:45:33] [INFO ] IntArrayRepository - Query finished
+[2025-11-17 22:56:32] [INFO ] IntArrayRepositorySortServiceImpl - Repository sorted by comparator=impl.service.com.bohush.ft.IntArrayRepositorySortServiceImplTest$$Lambda/0x00007c5948213070@b273a59
+[2025-11-17 22:58:55] [INFO ] IntArrayRepositorySortServiceImpl - Repository sorted by comparator=impl.service.com.bohush.ft.IntArrayRepositorySortServiceImplTest$$Lambda/0x000074d0b0213b50@b273a59
