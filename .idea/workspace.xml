@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2dd4d05-714d-4e50-abcd-1f4f1277e1fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ivanov/first/repository/IntArrayRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ivanov/first/service/impl/IntArrayRepositorySortServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bohush/ft/repository/SpecificationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ivanov/first/entity/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ivanov/first/entity/IntArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ivanov/first/observer/impl/IntArrayObservableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ivanov/first/observer/impl/IntArrayObservableImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ivanov/first/repository/IntArrayRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ivanov/first/repository/IntArrayRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ivanov/first/service/impl/IntArrayRepositorySortServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ivanov/first/service/impl/IntArrayRepositorySortServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +51,7 @@
     "JUnit.IntArrayServiceImplTest.executor": "Run",
     "JUnit.IntArrayServiceImplTest.replaceIf.executor": "Run",
     "JUnit.IntArraySortServiceImplTest.executor": "Run",
+    "JUnit.SpecificationTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,11 +71,12 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.bohush.ft.repository" />
       <recent name="com.ivanov.first.repository" />
       <recent name="com.ivanov.first.service.impl" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IntArrayRepositorySortServiceImplTest">
+  <component name="RunManager" selected="JUnit.SpecificationTest">
     <configuration name="IntArrayFileServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="first" />
       <extension name="coverage">
@@ -92,22 +88,6 @@
       <option name="PACKAGE_NAME" value="com.ivanov.first.service.impl" />
       <option name="MAIN_CLASS_NAME" value="com.ivanov.first.service.impl.IntArrayFileServiceImplTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntArrayFileServiceImplTest.readArraysFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="first" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ivanov.first.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ivanov.first.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.ivanov.first.service.impl.IntArrayFileServiceImplTest" />
-      <option name="METHOD_NAME" value="readArraysFromFile" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,6 +137,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpecificationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bohush.ft.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bohush.ft.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.bohush.ft.repository.SpecificationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -168,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SpecificationTest" />
         <item itemvalue="JUnit.IntArrayRepositorySortServiceImplTest" />
         <item itemvalue="JUnit.IntArrayRepositoryTest" />
         <item itemvalue="JUnit.IntArrayServiceImplTest" />
         <item itemvalue="JUnit.IntArrayFileServiceImplTest" />
-        <item itemvalue="JUnit.IntArrayFileServiceImplTest.readArraysFromFile" />
       </list>
     </recent_temporary>
   </component>
