@@ -10,7 +10,6 @@ public class IntArrayRepository {
 
   private static final Logger log = LogManager.getLogger(IntArrayRepository.class);
   private static IntArrayRepository instance;
-  private final IntArrayObserver observer = new IntArrayObserverImpl();
   private List<IntArray> arrays = new ArrayList<>();
 
   private IntArrayRepository() {}
@@ -24,18 +23,12 @@ public class IntArrayRepository {
 
   public boolean add(IntArray array) {
     boolean result = arrays.add(array);
-    if (result) {
-      array.attach(observer);
-    }
     log.info("Add operation for array {} completed successfully: {}", array, result);
     return result;
   }
 
   public boolean remove(IntArray o) {
     boolean result = arrays.remove(o);
-    if (result) {
-      o.detach(observer);
-    }
     log.info("Remove operation for object {} completed successfully: {}", o, result);
     return result;
   }

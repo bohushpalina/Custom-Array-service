@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2dd4d05-714d-4e50-abcd-1f4f1277e1fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bohush/ft/reader/IntArrayReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bohush/ft/reader/IntArrayReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bohush/ft/reader/impl/IntArrayReaderImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bohush/ft/reader/impl/IntArrayReaderImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bohush/ft/repository/IntArrayRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bohush/ft/repository/IntArrayRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
