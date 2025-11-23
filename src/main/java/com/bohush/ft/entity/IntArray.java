@@ -12,7 +12,7 @@ import java.util.List;
 public class IntArray implements IntArrayObservable {
   private long intArrayId;
   private int[] data;
-  private final List<IntArrayObserver> observers = new ArrayList<>();
+  private IntArrayObserver observer;
 
   public IntArray() {
     super();
@@ -77,19 +77,21 @@ public class IntArray implements IntArrayObservable {
 
   @Override
   public void attach(IntArrayObserver observer) {
-    if (observer != null && !observers.contains(observer)) {
-      observers.add(observer);
-    }
+    this.observer = observer;
   }
 
   @Override
   public void detach(IntArrayObserver observer) {
-    observers.remove(observer);
+    if (this.observer == observer) {
+      this.observer = null;
+    }
   }
 
   @Override
   public void notifyObservers() {
-    IntArrayEvent event = new IntArrayEvent(this);
-    observers.forEach(observer -> observer.arrayUpdated(event));
+    if (observer != null) {
+      IntArrayEvent event = new IntArrayEvent(this);
+      observer.arrayUpdated(event);
+    }
   }
 }

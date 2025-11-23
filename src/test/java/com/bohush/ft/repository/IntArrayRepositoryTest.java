@@ -1,5 +1,6 @@
 package com.bohush.ft.repository;
 
+import com.bohush.ft.comparator.IntArrayComparator;
 import com.bohush.ft.entity.IntArray;
 import com.bohush.ft.exception.IntArrayException;
 import com.bohush.ft.factory.impl.IntArrayFactoryImpl;
@@ -63,7 +64,43 @@ class IntArrayRepositoryTest {
   }
 
   @Test
-  void sort() {
+  void sortById() {
+    repository.add(ARRAY_3);
+    repository.add(ARRAY_1);
+    repository.add(ARRAY_4);
+    repository.add(ARRAY_2);
+    repository.sort(IntArrayComparator.ID);
+    List<IntArray> actual = repository.query(a -> true);
+    List<IntArray> expected = List.of(
+            ARRAY_1,
+            ARRAY_2,
+            ARRAY_3,
+            ARRAY_4
+    );
+
+    assertEquals(expected, actual, "Сортировка должна быть выполнена по ID");
+  }
+
+  @Test
+  void sortBySize() {
+    repository.add(ARRAY_4);
+    repository.add(ARRAY_3);
+    repository.add(ARRAY_1);
+    repository.add(ARRAY_2);
+    repository.sort(IntArrayComparator.SIZE);
+
+    List<IntArray> actual = repository.query(a -> true);
+    List<IntArray> expected = List.of(
+            ARRAY_4,
+            ARRAY_1,
+            ARRAY_2,
+            ARRAY_3
+    );
+    assertEquals(expected, actual, "Сортировка должна быть выполнена по размеру массива");
+  }
+
+  @Test
+  void sortByMaxElement() {
     repository.add(ARRAY_1);
     repository.add(ARRAY_2);
     repository.add(ARRAY_3);

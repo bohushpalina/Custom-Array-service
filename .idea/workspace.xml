@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2dd4d05-714d-4e50-abcd-1f4f1277e1fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bohush/ft/repository/IntArrayRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bohush/ft/repository/IntArrayRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bohush/ft/comparator/IntArrayComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bohush/ft/entity/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bohush/ft/entity/IntArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bohush/ft/repository/IntArrayRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bohush/ft/repository/IntArrayRepositoryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -77,7 +81,7 @@
       <recent name="com.ivanov.first.service.impl" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IntArrayRepositorySortServiceImplTest (1)">
+  <component name="RunManager" selected="JUnit.IntArrayRepositoryTest (1)">
     <configuration name="IntArrayFileServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="first" />
       <extension name="coverage">
@@ -164,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IntArrayRepositoryTest (1)" />
         <item itemvalue="JUnit.IntArrayRepositorySortServiceImplTest (1)" />
         <item itemvalue="JUnit.IntArrayFileServiceImplTest" />
         <item itemvalue="JUnit.IntArrayServiceImplTest" />
         <item itemvalue="JUnit.SpecificationTest" />
-        <item itemvalue="JUnit.IntArrayRepositoryTest (1)" />
       </list>
     </recent_temporary>
   </component>

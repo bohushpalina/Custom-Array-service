@@ -401,3 +401,77 @@
 [2025-11-18 21:59:18] [INFO ] IntArrayFileServiceImpl - Invalid line in file: '12 thirteen 14'Skipped
 [2025-11-18 21:59:18] [INFO ] IntArrayFileServiceImpl - File was read successful!
 [2025-11-18 21:59:29] [INFO ] IntArrayRepositorySortServiceImpl - Repository sorted by comparator
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Repository created
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=1, size=3, data=[1, 2, 3]} completed successfully: true
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Remove operation for object IntArray{customArrayId=1, size=3, data=[1, 2, 3]} completed successfully: true
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=1, size=3, data=[1, 2, 3]} completed successfully: true
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=1, size=3, data=[1, 2, 3]} completed successfully: true
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=2, size=3, data=[5, 1, 9]} completed successfully: true
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=3, size=4, data=[0, 0, 10, 2]} completed successfully: true
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=4, size=3, data=[-5, -3, -1]} completed successfully: true
+[2025-11-19 08:38:44] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-19 08:38:44] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-19 08:38:44] [INFO ] IntArrayServiceImpl - Finding max element in array with size 4
+[2025-11-19 08:38:44] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-19 08:38:44] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-19 08:38:44] [INFO ] IntArrayServiceImpl - Finding max element in array with size 4
+[2025-11-19 08:38:44] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-19 08:38:44] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-19 08:38:44] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-19 08:38:44] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Sort operation completed successfully.
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Query finished
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=1, size=3, data=[1, 2, 3]} completed successfully: true
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=2, size=3, data=[5, 1, 9]} completed successfully: true
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=3, size=4, data=[0, 0, 10, 2]} completed successfully: true
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=4, size=3, data=[-5, -3, -1]} completed successfully: true
+[2025-11-19 08:38:44] [INFO ] IntArrayRepository - Query finished
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Repository created
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=1, size=3, data=[1, 2, 3]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=2, size=3, data=[5, 1, 9]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=3, size=4, data=[0, 0, 10, 2]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=4, size=3, data=[-5, -3, -1]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-23 19:28:36] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-23 19:28:36] [INFO ] IntArrayServiceImpl - Finding max element in array with size 4
+[2025-11-23 19:28:36] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-23 19:28:36] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-23 19:28:36] [INFO ] IntArrayServiceImpl - Finding max element in array with size 4
+[2025-11-23 19:28:36] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-23 19:28:36] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-23 19:28:36] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-23 19:28:36] [INFO ] IntArrayServiceImpl - Finding max element in array with size 3
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Sort operation completed successfully.
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Query finished
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=3, size=4, data=[0, 0, 10, 2]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=1, size=3, data=[1, 2, 3]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=4, size=3, data=[-5, -3, -1]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=2, size=3, data=[5, 1, 9]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Sort operation completed successfully.
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Query finished
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=1, size=3, data=[1, 2, 3]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Remove operation for object IntArray{customArrayId=1, size=3, data=[1, 2, 3]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=4, size=3, data=[-5, -3, -1]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=3, size=4, data=[0, 0, 10, 2]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=1, size=3, data=[1, 2, 3]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=2, size=3, data=[5, 1, 9]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Sort operation completed successfully.
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Query finished
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=1, size=3, data=[1, 2, 3]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Repository cleared
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=1, size=3, data=[1, 2, 3]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=2, size=3, data=[5, 1, 9]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=3, size=4, data=[0, 0, 10, 2]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Add operation for array IntArray{customArrayId=4, size=3, data=[-5, -3, -1]} completed successfully: true
+[2025-11-23 19:28:36] [INFO ] IntArrayRepository - Query finished
